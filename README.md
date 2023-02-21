@@ -14,14 +14,3 @@ const
 55
 22
 555
-555tt
-555
-77
-]ttttttt
-ttt
-tt
-tt
-tt
-tt
-tt
-tt
