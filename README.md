@@ -4,20 +4,3 @@
 ==========================
 - elapsed
 ===================f
-d
-asdf
-asdf
-elapsed
-const
-const
-4const
-55
-22
-555
-d
-d
-asdf
-d
-d
-d
-d
