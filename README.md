@@ -12,7 +12,3 @@ event-driven programming
 event-driven
 controllers
 routers
-6
-d
-asdf
-asdf
