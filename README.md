@@ -12,6 +12,3 @@ event-driven programming
 event-driven
 controllers
 routers
-apply()
-bind()
-map()
