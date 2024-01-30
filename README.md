@@ -13,12 +13,3 @@ event-driven
 controllers
 routers
 
-d
-d
-d
-d
-d
-dd
-d
-d
-d
